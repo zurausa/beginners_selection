@@ -7,6 +7,7 @@ public class Main {
 		int c = sc.nextInt();
 		String s = sc.next();
 		System.out.println((a+b+c) + " " + s);
+		sc.close();
 	}
 }
 
